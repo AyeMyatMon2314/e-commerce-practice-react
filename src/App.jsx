@@ -15,6 +15,7 @@ function App() {
           <Header />
           <hr class="h-px my-8 border-grayish-blue border" />
           <h2>MT</h2>
+          <h2>amm</h2>
           <div className=" pt-8 flex gap-8 flex-row items-center justify-between">
             <ProductImage products={products} sneaker={id} setSneaker={setId} />
             <ProdcutDes sneaker={sneakerInfo} />
