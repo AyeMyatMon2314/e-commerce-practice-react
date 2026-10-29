@@ -1,0 +1,55 @@
+[
+  {
+    "id":1,
+    "productImage": "./images/image-product-1.jpg",
+    "thumbnails": "./images/image-product-1-thumbnail.jpg",
+    "company": "Sneaker Company",
+    "title": "Fall Limited Edition Sneakers",
+    "description": "These low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they’ll withstand everything the weather can offer.",
+    "price": 125.0,
+    "promotion": {
+      "discountPercent": 50,
+      "originalPrice": 250.0,
+      "label": "50%"
+    }
+  },
+  {"id":2,
+    "productImage": "./images/image-product-2.jpg",
+    "thumbnails": "./images/image-product-2-thumbnail.jpg",
+    "company": "Sneaker Company",
+    "title": "Fall Limited Edition Sneakers",
+    "description": "These low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they’ll withstand everything the weather can offer.",
+    "price": 125.0,
+    "promotion": {
+      "discountPercent": 50,
+      "originalPrice": 250.0,
+      "label": "50%"
+    }
+  },
+  {"id":3,
+    "productImage": "./images/image-product-3.jpg",
+    "thumbnails": "./images/image-product-3-thumbnail.jpg",
+    "company": "Sneaker Company",
+    "title": "Fall Limited Edition Sneakers",
+    "description": "These low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they’ll withstand everything the weather can offer.",
+    "price": 125.0,
+    "promotion": {
+      "discountPercent": 50,
+      "originalPrice": 250.0,
+      "label": "50%"
+    }
+  },
+  {"id":4,
+    "productImage": "./images/image-product-4.jpg",
+    "thumbnails": "./images/image-product-4-thumbnail.jpg",
+    "company": "Sneaker Company",
+    "title": "Fall Limited Edition Sneakers",
+    "description": "These low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they’ll withstand everything the weather can offer.",
+    "price": 125.0,
+    "promotion": {
+      "discountPercent": 50,
+      "originalPrice": 250.0,
+      "label": "50%"
+    }
+  }
+]
