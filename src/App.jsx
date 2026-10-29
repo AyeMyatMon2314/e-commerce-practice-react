@@ -13,7 +13,7 @@ function App() {
       <div className="pt-10 bg-white w-full min-h-screen">
         <div className="mx-auto max-w-4xl">
           <Header />
-          {/* <hr class="h-px my-8 bg-dark-grayish-blue border" /> */}
+          <hr class="h-px my-8 border-grayish-blue border" />
 
           <div className=" pt-8 flex gap-8 flex-row items-center justify-between">
             <ProductImage products={products} sneaker={id} setSneaker={setId} />
