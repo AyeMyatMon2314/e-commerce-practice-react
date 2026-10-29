@@ -10,12 +10,12 @@ function App() {
   const sneakerInfo = products[id - 1];
   return (
     <>
-      <div className="pl-30 pr-10 pt-10 bg-white w-full min-h-screen">
+      <div className="pt-10 bg-white w-full min-h-screen">
         <div className="mx-auto max-w-4xl">
           <Header />
           <hr class="h-px my-8 bg-dark-grayish-blue border" />
 
-          <div className="pl-7 pt-8 flex flex-row items-center justify-between">
+          <div className=" pt-8 flex gap-8 flex-row items-center justify-between">
             <ProductImage products={products} sneaker={id} setSneaker={setId} />
             <ProdcutDes sneaker={sneakerInfo} />
           </div>

@@ -5,7 +5,7 @@ function ProdcutDes({ sneaker }) {
   return (
     <div className="w-full flex flex-col justify-start gap-3">
       <p className="text-xs text-dark-grayish-blue">{companyName}</p>
-      <p className="text-3xl font-semibold">{sneaker.title}</p>
+      <p className="text-4xl font-semibold">{sneaker.title}</p>
       <p className="text-xs text-dark-grayish-blue leading-loose">
         {sneaker.description}
       </p>
